@@ -1,6 +1,7 @@
 body {
   background-color: lightblue;
 }
+
 h1 {
   text-align: center;
 }
@@ -17,4 +18,14 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.dark_scheme {
+  background-color: #043789;
+  color: white;
+}
+
+.light_scheme {
+  background-color: #83ef8b;
+  color: #7c1713;
 }
